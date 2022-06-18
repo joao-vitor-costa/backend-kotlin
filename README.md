@@ -12,4 +12,7 @@ https://kotlinlang.org/docs/destructuring-declarations.html
 ### operator-overloading
 https://kotlinlang.org/docs/operator-overloading.html
 
+### Collections
+https://kotlinlang.org/docs/collections-overview.html
+
  
